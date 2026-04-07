@@ -1,9 +1,9 @@
 {
-  "location": null,
-  "lang": "bass",
   "generate": null,
   "generate_from_json": null,
   "url": "https://github.com/vito/tree-sitter-bass",
   "semver": false,
-  "parser_version": "28dc7059722be090d04cd751aed915b2fee2f89a"
+  "parser_version": "28dc7059722be090d04cd751aed915b2fee2f89a",
+  "lang": "bass",
+  "location": null
 }
